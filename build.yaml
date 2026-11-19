@@ -13,9 +13,9 @@
 #
 ---
 include:
-  - board: bluemicro840
+  - board: bluemicro840//zmk
     shield: corne_left
-  - board: bluemicro840
+  - board: bluemicro840//zmk
     shield: corne_right
-  - board: bluemicro840
+  - board: bluemicro840//zmk
     shield: settings_reset
